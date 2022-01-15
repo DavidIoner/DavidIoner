@@ -6,7 +6,7 @@
 #
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIoner&show_icons=true&theme=dracula&count_private=true)
 #    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidIoner&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidIoner&layout=compact&theme=dracula)
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
