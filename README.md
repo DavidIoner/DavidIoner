@@ -1,12 +1,13 @@
  <h1 align="center">Hi, I am  <a href="https://www.linkedin.com/in/david-ioner-05168a1aa/"><i>David Ioner</i></a> 😃️</h1>
 
-## follow me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidioner/)
+# follow me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidioner/)
 
-#
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIoner&show_icons=true&theme=dracula&count_private=true)
-#    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidIoner&layout=compact&theme=dracula)
+ <div align="center">
+  <a href="https://github.com/DavidIoner">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DavidIoner&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidIoner&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
