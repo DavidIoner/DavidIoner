@@ -1,6 +1,5 @@
  <h1 align="center">Bem vindo ao meu repositório!</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidioner/)
 
  <div align="center">
   <a href="https://github.com/DavidIoner">
